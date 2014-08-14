@@ -11,5 +11,4 @@ Pod::Spec.new do |s|
   s.framework     = 'Crashlytics'
   s.requires_arc  = true
 
-  s.dependency 'CocoaLumberjack/Core', '~> 1.9.2'
 end
